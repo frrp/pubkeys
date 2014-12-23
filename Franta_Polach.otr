@@ -1,0 +1,12 @@
+# See README.rst on how to cryptographically verify this file.
+#
+# This file is not the ideal solution; I am looking into enabling GPG to export
+# subkeys as OTR keys, so that I can have this validity certificate embedded in
+# my PGP key instead, using actual revocable certification signatures.
+#
+# OK - key is valid for the uid
+# DEL - key was deleted or overwritten
+# DIS - key no longer associated with uid
+#
+# Fingerprint                               	Status	Protocol	UID
+3F086D8B 7F1FA691 006F898C 62B2DD30 8E9B76E9	OK		XMPP		frap@jabbim.com
