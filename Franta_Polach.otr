@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
 # See README.rst on how to cryptographically verify this file.
 #
 # This file is not the ideal solution; I am looking into enabling GPG to export
@@ -10,3 +13,20 @@
 #
 # Fingerprint                               	Status	Protocol	UID
 3F086D8B 7F1FA691 006F898C 62B2DD30 8E9B76E9	OK		XMPP		frap@jabbim.com
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJUmfJ6AAoJEL+vWnKp+mU6N1YQAM6r7R+sumLa66HvD9a/QD0c
+OMwiPFg3Pjyta2d/qzy0kZYRZaoDfDmi9Pa/m9pVpNdF7jBmzcJO4pMl3rYtoQhP
+VUAUiNgXJolRXGH+r+pFFrB6V1mCmqSF53MctWb1qEpgZngorlZKyttQEsgpd6xU
+QdI0BF1/7qCSL3/Cu0K2Sr+hF4+fttqa58IMs851+YnWcw1x/Bqd82r4ZhVWp8yi
+1V44rck9JIJoF1bRSeunfYtfyFiZi1qtApKfPrMnYGWF77GAW5cb8RSfUHwyZ6bl
+IFUXRCDZJ2ZlCKo1XXO8jwZBwXPYTtgj2exTCuRgPBRT1nWY0hgcdxCNV6wV2Epe
+3ECNHtNVFILmZlS/geRJaZurpOBwSi6kLkaHlEs/AF+DbZHict4J5kc4pWScgIL5
+pADCrkn75hX5B+CJLI+hrA/dLBulam+I8KawEfV0CtHEUVOh1YXpsgmMFqSTIsXl
+YWevZFhPvuWEmCa8TFTzYYKWfulvhE8s9/KFp9iwJyBs9/R2/iXpy2cArjCtaoTO
+i3qXGhZKeyRXzrOrUiND2WTtKrVVVSKNab4IDXCgZNaavTy/riiFAdkg3LQy3G2I
+my596Kaf+jy51yTESAoVAc3RXZ0pKjffimPtt8yN6bPWPWDRmCO3pRUMyFy45OIO
+tyxHAUDsG/iRExTU8iZO
+=O9Y+
+-----END PGP SIGNATURE-----
